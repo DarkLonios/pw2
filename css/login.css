@@ -1,0 +1,26 @@
+@charset "utf-8";
+/* CSS Document*/
+body,input{
+    font-family: 'Times New Roman', Times, serif, cursive;
+    font-size: 16px;
+    font-weight: bold;
+    background-image:url(../img/background2.png);
+}
+
+/*fieldset*/
+#pelicula{
+    width: 28%; 
+    margin: 17% auto; 
+    border-radius: 10px;
+    box-shadow:5px 5px #007fff;
+    background-color: #007fff;
+    text-align: center;
+}
+.botao{
+    background-color: #007fff;
+    text-align: center;
+    border:0;
+    border-radius: 10px;
+    bottom: 0%;
+}
+/*overflow:hidden/clear: both;*/
